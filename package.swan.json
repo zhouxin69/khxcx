@@ -1,0 +1,12 @@
+{
+  "appid": "wxa7b885e694e9f69d",
+  "setting": {
+    "urlCheck": false
+  },
+  "condition": {
+    "swan": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
